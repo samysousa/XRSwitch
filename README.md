@@ -6,3 +6,10 @@ Allowing for more control and the ability to switch Runtime without going into e
 to "Mark as default".
 
 Switching while running allows different apps to run trough different runtimes and "possibly" different headsets.
+
+
+
+![](https://github.com/samysousa/XRSwitch/raw/master/XRSwitcher_img2.png)
+
+
+![](https://github.com/samysousa/XRSwitch/raw/master/XRSwitcher_img1.png)
