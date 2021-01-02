@@ -13,3 +13,7 @@ Switching while running allows different apps to run trough different runtimes a
 
 
 ![](https://github.com/samysousa/XRSwitch/raw/master/XRSwitcher_img1.png)
+
+Open to feedback, and changes proposed or better yet, inspire from this to make something better.
+
+Enjoy.
